@@ -3,7 +3,7 @@
 
 
 ### 💻 기술 스택
-![Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)![Badge](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=Oracle&logoColor=white) ![Badge](https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white)
+![Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) ![Badge](https://img.shields.io/badge/Oracle-003545?style=flat&logo=Oracle&logoColor=white) ![Badge](https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white)
 
 ### 👥 참여 팀원
 | 팀원 이름 | 담당 기능 |
