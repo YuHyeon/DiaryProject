@@ -1,9 +1,7 @@
 # 🏢 다이어리 어플리케이션
-### 다운로드 📁
-
 
 ### 💻 기술 스택
-![Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) ![Badge](https://img.shields.io/badge/Oracle-003545?style=flat&logo=Oracle&logoColor=white) ![Badge](https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white)
+![Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)  ![Badge](https://img.shields.io/badge/Oracle-003545?style=flat&logo=Oracle&logoColor=white)  ![Badge](https://img.shields.io/badge/JPA-007396?style=flat&logo=JPA&logoColor=white)
 
 ### 👥 참여 팀원
 | 팀원 이름 | 담당 기능 |
@@ -18,6 +16,8 @@
 
   #### 번역기 🗨
     - 네이버 파파고 번역 API 적용
+  #### 챗봇 🗨
+    - DB를 이용하여 스스로 학습하는 챗봇 
   #### 가계부 기록 💸
     - 수입, 지출을 별도로 기록 가능
   #### 일기장 기록 📒
